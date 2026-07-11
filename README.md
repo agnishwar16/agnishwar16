@@ -199,12 +199,12 @@ Actively deepening expertise in Deep Learning and Computer Vision through indepe
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=agnishwar16&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=A78BFA&icon_color=8B5CF6&text_color=E9D5FF&count_private=false" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=agnishwar16&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=A78BFA&icon_color=8B5CF6&text_color=E9D5FF" />
 <img height="165" src="https://streak-stats.demolab.com?user=agnishwar16&theme=radical&hide_border=true&background=0D0221&ring=8B5CF6&fire=A855F7&currStreakLabel=E9D5FF" />
 
 <br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnishwar16&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=A78BFA&text_color=E9D5FF" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=agnishwar16&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=A78BFA&text_color=E9D5FF" />
 
 </div>
 
@@ -216,7 +216,7 @@ Actively deepening expertise in Deep Learning and Computer Vision through indepe
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=agnishwar16&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&row=2" />
+<img src="https://github-profile-trophy-winning.vercel.app/?username=agnishwar16&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&row=2" />
 
 </div>
 

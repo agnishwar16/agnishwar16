@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=B.Tech+CSE+(AI+Specialization)+%40+Bennett+University;Learning+Deep+Learning%2C+RAG+%26+Agentic+AI;Solving+DSA+%2F+Competitive+Programming+Daily;Open+to+AI%2FML+Internships+2026" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=B.Tech+CSE+(AI+Specialization)+%40+Bennett+University;Learning+Deep+Learning%2C+RAG+%26+Agentic+AI;Solving+DSA+%2F+Competitive+Programming+Daily;Open+to+AI%2FML+Internships+2026" alt="Typing SVG" />
 
 <br/>
 

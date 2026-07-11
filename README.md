@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0524,50:2d1b4e,100:6d28d9&height=220&section=header&text=Agnishwar%20Mukherjee&fontSize=42&fontColor=E9D5FF&fontAlignY=38&animation=fadeIn&desc=AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20DSA%20Enthusiast&descAlignY=55&descSize=18&descColor=C4B5FD" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0524,50:2d1b4e,100:6d28d9&height=220&section=header&text=Agnishwar%20Mukherjee&fontSize=42&fontColor=E9D5FF&fontAlignY=38&animation=fadeIn&desc=AI%2FML%20Engineer%20%7C%20Deep%20Learning%20%26%20CV%20%7C%20DSA%20Enthusiast&descAlignY=55&descSize=18&descColor=C4B5FD" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=B.Tech+CSE+(AI)+%40+Bennett+University;Building+AI-powered+Full+Stack+Products;Solving+DSA+%2F+Competitive+Programming+Daily;Open+to+AI%2FML+%26+SWE+Internships+2026" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=B.Tech+CSE+(AI+Specialization)+%40+Bennett+University;Building+AI%2FML+%26+Deep+Learning+Projects;Solving+DSA+%2F+Competitive+Programming+Daily;Open+to+AI%2FML+Internships+2026" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -34,20 +34,20 @@
 
 <img align="right" width="260" src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg">
 
-I'm a **3rd-year B.Tech CSE (AI Specialization)** student at **Bennett University**, currently based in **Kolkata, India**. I engineer full-stack, AI-native products — from real-time LLM-integrated interfaces to systems backed by clean, scalable architecture.
+I'm a **3rd-year B.Tech CSE (AI Specialization)** student at **Bennett University**, currently based in **Kolkata, India**. My core focus is **AI/ML engineering** — Deep Learning, Computer Vision, and LLM-integrated systems — backed by strong full-stack and software engineering fundamentals to actually ship what I build.
 
-- 🔭 Currently building **AI-integrated full-stack products** and solving **Data Structures & Algorithms** problems daily
-- 🧠 Deep interest in **Machine Learning / Deep Learning**, with hands-on work in **Computer Vision** and **LLM orchestration**
-- ⚙️ Product engineering mindset — I care about performance, UX polish, and shipping things that actually work end-to-end
-- 🎯 Actively seeking **AI/ML and Software Engineering internships** for 2026, especially at fast-moving startups
+- 🔭 Currently building **AI/ML & Deep Learning projects** and solving **Data Structures & Algorithms** problems daily
+- 🧠 Core specialization in **Machine Learning / Deep Learning**, with hands-on work in **Computer Vision** and **LLM orchestration**
+- ⚙️ Use full-stack skills (React, Next.js, Node.js) as a means to deploy and productionize AI systems — not as my primary identity
+- 🎯 Actively seeking **AI/ML internships** for 2026, especially at fast-moving startups
 - 🤝 Open to collaborating on **DSA study groups**, **competitive programming**, and **AI/ML side projects**
 
 <br/>
 
 ### 🎯 Open To
 ```yaml
-roles: [AI/ML Intern, Software Engineering Intern, Full Stack Intern]
-environments: [Startups, Product Teams, Research-driven Engineering]
+roles: [AI/ML Intern, Machine Learning Intern, Deep Learning Intern]
+environments: [Startups, AI Product Teams, Research-driven Engineering]
 collaboration: [DSA Study Groups, Competitive Programming, Open Source AI/ML]
 ```
 
@@ -168,13 +168,13 @@ An ongoing, continuously updated repository of Data Structures & Algorithms solu
 
 </div>
 
-Actively building production-grade AI-integrated applications and deepening expertise in Deep Learning and Computer Vision through independent projects, while preparing for and actively applying to AI/ML and Software Engineering internships.
+Actively deepening expertise in Deep Learning and Computer Vision through independent projects, applying engineering skills to build and deploy AI-integrated applications, while preparing for and actively applying to AI/ML internships.
 
-- Designed and built **Nexus Command**, a full-stack AI-powered student productivity platform
+- Designed and built **Nexus Command**, an AI-powered student productivity platform with multi-model LLM integration
 - Practicing applied ML/DL through small, focused deep learning projects
 - Solving DSA problems consistently across LeetCode and Codeforces to build strong CP fundamentals
 
-`AI/ML` `Full Stack Development` `System Design` `DSA`
+`AI/ML` `Deep Learning` `Computer Vision` `DSA`
 
 <br/>
 
@@ -293,7 +293,7 @@ exploring:
 
 open_to:
   - AI/ML Internships
-  - Software Engineering Internships
+  - Machine Learning / Deep Learning Internships
   - DSA study groups & competitive programming
 ```
 
@@ -322,5 +322,3 @@ open_to:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:2d1b4e,100:0f0524&height=120&section=footer" width="100%"/>
 
 </div>
-[![](https://komarev.com/ghpvc/?username=agnishwar16&icon=2&color=4)](https://visitcount.itsvg.in)
-

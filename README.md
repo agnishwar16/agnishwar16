@@ -216,7 +216,7 @@ Actively deepening expertise in Deep Learning and Computer Vision through indepe
 
 <div align="center">
 
-<img src="https://github-profile-trophy-winning.vercel.app/?username=agnishwar16&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&row=2" />
+<img src="https://github-profile-trophy-tawny.vercel.app/?username=agnishwar16&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&row=2" />
 
 </div>
 

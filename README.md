@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0524,50:2d1b4e,100:6d28d9&height=200&section=header&text=Agnishwar%20Mukherjee&fontSize=40&fontColor=E9D5FF&fontAlignY=38&animation=fadeIn&desc=Aspiring%20GenAI%20%2F%20Agentic%20AI%20Engineer&descAlignY=55&descSize=16&descColor=C4B5FD" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0524,50:2d1b4e,100:6d28d9&height=200&section=header&text=AGNISHWAR%20MUKHERJEE&fontSize=40&fontColor=E9D5FF&fontAlignY=38&animation=fadeIn&desc=Aspiring%20GenAI%20%2F%20Agentic%20AI%20Engineer&descAlignY=55&descSize=16&descColor=C4B5FD" width="100%"/>
 
 <br/>
 
@@ -159,9 +159,7 @@ An ongoing, continuously updated repository of Data Structures & Algorithms solu
 
 ---
 
-## 💼 Experience
 
-<div align="center">
 
 **Currently Building — Independent Projects**
 <br/>
@@ -181,45 +179,7 @@ Actively deepening expertise in Deep Learning and Computer Vision through indepe
 
 ---
 
-## 🏆 Achievements
 
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| 🏗️ *Section reserved* | Hackathon wins, contest ranks, and recognitions will be added here as earned |
-
-</div>
-
-<br/>
-
----
-
-## 📜 Certifications
-
-<div align="center">
-
-**AWS**
-
-_Add AWS certification badges here_
-
-**Oracle**
-
-_Add Oracle certification badges here_
-
-**NPTEL**
-
-_Add NPTEL certification badges here_
-
-**Cisco**
-
-_Add Cisco certification badges here_
-
-</div>
-
-<br/>
-
----
 
 ## 💻 Coding Profiles
 

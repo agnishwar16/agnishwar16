@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0524,50:2d1b4e,100:6d28d9&height=220&section=header&text=Agnishwar%20Mukherjee&fontSize=42&fontColor=E9D5FF&fontAlignY=38&animation=fadeIn&desc=AI%2FML%20Engineer%20%7C%20Deep%20Learning%20%26%20CV%20%7C%20DSA%20Enthusiast&descAlignY=55&descSize=18&descColor=C4B5FD" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0524,50:2d1b4e,100:6d28d9&height=200&section=header&text=Agnishwar%20Mukherjee&fontSize=40&fontColor=E9D5FF&fontAlignY=38&animation=fadeIn&desc=Aspiring%20GenAI%20%2F%20Agentic%20AI%20Engineer&descAlignY=55&descSize=16&descColor=C4B5FD" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=B.Tech+CSE+(AI+Specialization)+%40+Bennett+University;Building+AI%2FML+%26+Deep+Learning+Projects;Solving+DSA+%2F+Competitive+Programming+Daily;Open+to+AI%2FML+Internships+2026" alt="Typing SVG" />
-</a>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=B.Tech+CSE+(AI+Specialization)+%40+Bennett+University;Learning+Deep+Learning%2C+RAG+%26+Agentic+AI;Solving+DSA+%2F+Competitive+Programming+Daily;Open+to+AI%2FML+Internships+2026" alt="Typing SVG" />
 
 <br/>
 
@@ -34,21 +34,21 @@
 
 <img align="right" width="260" src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg">
 
-I'm a **3rd-year B.Tech CSE (AI Specialization)** student at **Bennett University**, currently based in **Kolkata, India**. My core focus is **AI/ML engineering** — Deep Learning, Computer Vision, and LLM-integrated systems — backed by strong full-stack and software engineering fundamentals to actually ship what I build.
+I'm a **3rd-year B.Tech CSE (AI Specialization)** student at **Bennett University**, currently based in **Kolkata, India**. I'm building a foundation in **Machine Learning & Deep Learning**, and actively steering my career toward **Generative AI & Agentic AI** — learning to design and build real-world AI products and systems, not just models in notebooks.
 
 - 🔭 Currently building **AI/ML & Deep Learning projects** and solving **Data Structures & Algorithms** problems daily
-- 🧠 Core specialization in **Machine Learning / Deep Learning**, with hands-on work in **Computer Vision** and **LLM orchestration**
-- ⚙️ Use full-stack skills (React, Next.js, Node.js) as a means to deploy and productionize AI systems — not as my primary identity
-- 🎯 Actively seeking **AI/ML internships** for 2026, especially at fast-moving startups
+- 🧠 Deepening my foundations in **Machine Learning / Deep Learning**, while actively leveling up in **Generative AI & Agentic AI** — RAG pipelines, LangChain, LangGraph, LLM agents, and MCP
+- 🎯 My career direction is clear: becoming an engineer who builds **real-world GenAI / Agentic AI products and systems**, not just experiments
+- 🚀 Actively seeking **AI/ML internships** for 2026, especially at fast-moving startups
 - 🤝 Open to collaborating on **DSA study groups**, **competitive programming**, and **AI/ML side projects**
 
 <br/>
 
 ### 🎯 Open To
 ```yaml
-roles: [AI/ML Intern, Machine Learning Intern, Deep Learning Intern]
+roles: [AI/ML Intern, Machine Learning Intern, GenAI / Agentic AI Intern]
 environments: [Startups, AI Product Teams, Research-driven Engineering]
-collaboration: [DSA Study Groups, Competitive Programming, Open Source AI/ML]
+collaboration: [DSA Study Groups, Competitive Programming, GenAI / Agentic AI Projects]
 ```
 
 <br/>
@@ -95,11 +95,12 @@ collaboration: [DSA Study Groups, Competitive Programming, Open Source AI/ML]
 
 | Domain | Proficiency | Details |
 |---|---|---|
-| **Deep Learning** | ⭐⭐⭐☆☆ | Building and training models with PyTorch & TensorFlow |
+| **Machine Learning** | ⭐⭐⭐☆☆ | Core ML fundamentals; scikit-learn based modeling |
+| **Deep Learning** | ⭐⭐⭐☆☆ | Learning and building neural networks with PyTorch & TensorFlow |
 | **Computer Vision** | ⭐⭐⭐☆☆ | Image processing & CV pipelines using OpenCV |
-| **LLM Integration / NLP** | ⭐⭐⭐⭐☆ | Multi-provider LLM orchestration (GPT-4o, Gemini 1.5 Pro, Groq Llama 3) via Vercel AI SDK |
+| **Generative AI / Agentic AI** | ⭐⭐⭐☆☆ *(actively leveling up)* | RAG pipelines, LangChain, LangGraph, LLM agents, MCP — the direction I'm building my career toward |
+| **LLM Integration** | ⭐⭐⭐⭐☆ | Multi-provider LLM orchestration (GPT-4o, Gemini 1.5 Pro, Groq Llama 3) via Vercel AI SDK |
 | **Data Analysis** | ⭐⭐⭐⭐☆ | Pandas, NumPy, Matplotlib, Plotly for exploration & visualization |
-| **Model Deployment** | ⭐⭐⭐☆☆ | Streamlit-based interactive ML app deployment |
 
 </div>
 
@@ -279,21 +280,25 @@ _Add Cisco certification badges here_
 
 ```yaml
 learning:
-  - Advanced Data Structures & Algorithms
   - Deep Learning (PyTorch / TensorFlow)
-  - Applied Computer Vision
+  - Generative AI: RAG, LangChain, LangGraph
+  - Agentic AI: LLM agents, MCP, multi-agent systems
+  - Advanced Data Structures & Algorithms
 
 building:
-  - AI-integrated full-stack products
+  - AI-integrated real-world products (not just notebooks)
   - Small-scale Deep Learning projects
 
 exploring:
-  - LLM orchestration & multi-model AI systems
-  - Scalable full-stack architecture patterns
+  - Agentic AI systems for real-world use cases
+  - LLM orchestration & multi-model AI pipelines
+
+career_direction:
+  - GenAI / Agentic AI Engineer — building real-world AI products & systems
 
 open_to:
   - AI/ML Internships
-  - Machine Learning / Deep Learning Internships
+  - GenAI / Agentic AI project collaborations
   - DSA study groups & competitive programming
 ```
 
